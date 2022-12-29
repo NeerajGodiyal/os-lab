@@ -1,7 +1,7 @@
 #include <stdio.h>
 void sort(int a[][2], int n);
 int main() {
-    printf("Ayam Dobhal | Section C | University Roll Number 2016685\n");
+
     int n;
     printf("Enter the no. of process: ");
     scanf("%d", &n);

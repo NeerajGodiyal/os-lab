@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-    printf("Ayam Dobhal | Section C | University Roll Number 2016685\n");
+
     printf("Enter the size of Array of disk: ");
     int size;
     int totalmove = 0;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Ayam Dobhal | Section C | University Roll Number 2016685\n");
+
     int i, j, n, a[50], frame[10], no, k, avail, count = 0;
     printf("ENTER THE NUMBER OF PAGES: ");
     scanf("%d", &n);
