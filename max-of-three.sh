@@ -1,4 +1,4 @@
-echo "Ayam Dobhal | Section C | University Roll Number 2016685\n"
+
 echo "Enter 3 numbers"
 read a b c
 
